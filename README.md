@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I am Sidhant Bidaliya
+- 🔭 I’m currently working as a backend developer intern at ADmyBrand.
+- 
+- 📫 How to reach me:<br/>
+ [![LinkedIn](https://img.shields.io/badge/Sidhant_Bidaliya-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sidhant-bidaliya-6583441b4/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=sidbidaliya&count_private=true&show_icons=true&include_all_commits=true&theme=nord" alt="sidbidaliya | Stats" />
 
 <!--
 **sidbidaliya/sidbidaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
